@@ -4,7 +4,6 @@ import com.ksnsolutions.com.patientservice.dto.PatientRequestDTO;
 import com.ksnsolutions.com.patientservice.dto.PatientResponseDTO;
 import com.ksnsolutions.com.patientservice.dto.validators.CreatePatientValidationGroup;
 import com.ksnsolutions.com.patientservice.service.PatientService;
-import jakarta.validation.Valid;
 import jakarta.validation.groups.Default;
 import org.springframework.http.ResponseEntity;
 import org.springframework.validation.annotation.Validated;
